@@ -22,12 +22,12 @@ body {
 
 img.logo {
   max-height: 100%;
-  width: 1rem;
+  width: 8rem;
   float: left;
 }
 
 .page-title {
-  color: #6B6B6B;
+  color: #00ff7f;
   float: left;
   font-size: 1.1rem;
   line-height: 3rem;
