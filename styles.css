@@ -30,7 +30,7 @@ img.logo {
   color: #dbdee0;
   float: left;
   font-size: 1.1rem;
-  line-height: 3rem;
+  line-height: 1rem;
 }
 
 @media screen and (max-width: 24rem) {
